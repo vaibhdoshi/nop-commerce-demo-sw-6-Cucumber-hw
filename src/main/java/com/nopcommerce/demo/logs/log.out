@@ -1,0 +1,1 @@
+2022-12-18 23:12:757 INFO  RegisterPage :91 - Get text from confirm password error message : [[ChromeDriver: chrome on WINDOWS (248859640e75fc5f21d46ad151ff8eb2)] -> xpath: //span[@id='ConfirmPassword-error']]
